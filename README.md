@@ -2,7 +2,7 @@
 
 <p>Italian, living in The Netherlands, loving Greece</p>
 
-working:
+working with:
 <p>
   <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
@@ -15,7 +15,7 @@ working:
   <img src="https://img.shields.io/badge/vim-%23019733.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
 </p>
 
-supporting:
+supported by:
 <p>
   <img src="https://img.shields.io/badge/bamboo-%230052CC.svg?&style=for-the-badge&logo=bamboo&logoColor=white"/>
   <img src="https://img.shields.io/badge/bitbucket-%230052CC.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
