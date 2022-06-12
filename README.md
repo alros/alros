@@ -25,14 +25,6 @@ working with:
   <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/jenkins-%23DC3545.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
-
-learning new stuff:
-<p>
-  <img src="https://img.shields.io/badge/university of essex%20-%23ffffff.svg?&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/coursera%20-%230056D2.svg?&style=for-the-badge&logo=coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/duolingo%20-%2358CC02.svg?&style=for-the-badge&logo=duolingo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/udemy%20-%23A435F0.svg?&style=for-the-badge&logo=udemy&logoColor=white"/>
-</p>
   
 find me on:  
 <p>
