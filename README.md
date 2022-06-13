@@ -42,7 +42,7 @@ find me on:
   <a href="https://medium.com/@albertorossotto">
     <img src="https://img.shields.io/badge/medium%20-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="https://github.com/arossottoclim8">
+  <a href="https://clim8.com">
     <img src="https://img.shields.io/badge/clim8%20-%2300a16a.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
