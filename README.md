@@ -13,25 +13,31 @@ working with:
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/springbatch-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/lombok-%23FF0000.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mapstruct-%23F2A854.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gnubash-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/lombok-%23FF0000.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mapstruct-%23F2A854.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/netlify-%23139CAB.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/aws-%23ff9d00.svg?&style=for-the-badge&logo=aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%23007bff.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/kubernetes-%23007bff.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/k9s-%23000000.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gnubash-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/eclipseide-%232C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white"/>
   <img src="https://img.shields.io/badge/visualstudiocode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/vim-%23019733.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/sonarqube-%234E9BCD.svg?&style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/trello-%230052CC.svg?&style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/apachemaven-%23C71A36.svg?&style=for-the-badge&logo=apachemaven&logoColor=white"/>
   <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/jenkins-%23DC3545.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
+  
 </p>
   
 find me on:  
