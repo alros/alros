@@ -13,14 +13,15 @@ working with:
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/springbatch-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/lombok-%23FF0000.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mapstruct-%23F2A854.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/lombok-%23FF0000.svg?&style=for-the-badge&logo=java&logoColor=black"/>
+  <img src="https://img.shields.io/badge/mapstruct-%23F2A854.svg?&style=for-the-badge&logo=java&logoColor=black"/>
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
 
   <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/netlify-%23139CAB.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/aws-%23ff9d00.svg?&style=for-the-badge&logo=aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/aws-%23FF9900.svg?&style=for-the-badge&logo=amazon&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%23007bff.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/kubernetes-%23007bff.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/k9s-%23000000.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
