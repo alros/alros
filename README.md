@@ -9,12 +9,12 @@ Italian, ~~living in The Netherlands~~, loving Greece</p>
 
 working with:
 <p>
-  <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/springbatch-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/lombok-%23FF0000.svg?&style=for-the-badge&logo=java&logoColor=black"/>
-  <img src="https://img.shields.io/badge/mapstruct-%23F2A854.svg?&style=for-the-badge&logo=java&logoColor=black"/>
+  <img src="https://img.shields.io/badge/lombok-%23FF0000.svg?&style=for-the-badge&logo=openjdk&logoColor=black"/>
+  <img src="https://img.shields.io/badge/mapstruct-%23F2A854.svg?&style=for-the-badge&logo=openjdk&logoColor=black"/>
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=black"/>
