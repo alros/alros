@@ -1,6 +1,6 @@
 <h1>Hi 👋 I'm Alberto</h1>
 
-Italian, ~~living in The Netherlands~~, loving Greece</p>
+<p>Italian, often in The Netherlands, sometimes in the UK, loving Greece</p>
 
 <!--
   https://shields.io/
