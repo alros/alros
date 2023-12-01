@@ -35,10 +35,12 @@ working with:
   <img src="https://img.shields.io/badge/visualstudiocode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/vim-%23019733.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
   <img src="https://img.shields.io/badge/sonarqube-%234E9BCD.svg?&style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/newrelic-%231CE783.svg?&style=for-the-badge&logo=newrelic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/prometheus-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/bitbucket-%230052CC.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
   <img src="https://img.shields.io/badge/confluence-%230052CC.svg?&style=for-the-badge&logo=confluence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/trello-%230052CC.svg?&style=for-the-badge&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/obsidian-%237C3AED.svg?&style=for-the-badge&logo=obsidian&logoColor=white"/>
   <img src="https://img.shields.io/badge/apachemaven-%23C71A36.svg?&style=for-the-badge&logo=apachemaven&logoColor=white"/>
   <img src="https://img.shields.io/badge/gradle-%2302303A.svg?&style=for-the-badge&logo=gradle&logoColor=white"/>
