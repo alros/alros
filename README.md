@@ -54,9 +54,6 @@ find me on:
   <a href="https://www.linkedin.com/in/albertorossotto/">
     <img src="https://img.shields.io/badge/linkedin%20-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@albertorossotto">
-    <img src="https://img.shields.io/badge/medium%20-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
   <a href="https://blog.rossotto.net">
     <img src="https://img.shields.io/badge/blog%20-%23DC3545.svg?&style=for-the-badge&logo=blogger&logoColor=white"/>
   </a>
