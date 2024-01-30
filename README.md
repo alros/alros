@@ -2,7 +2,7 @@
 
 <p>Italian, often in The Netherlands, sometimes in the UK, loving Greece</p>
 
-<p>Software Engineer and Tech Lead with more than 18 years of hands-on experience in software development. My main focus is backend development in Java, solution design, engineering team leadership, and coordination with the business.<p>
+<p>Software Engineer and Tech Lead with more than 20 years of hands-on experience in software development. My main focus is backend development in Java, solution design, engineering team leadership, and coordination with the business.<p>
 
 <!--
   https://shields.io/
