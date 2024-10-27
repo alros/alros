@@ -41,6 +41,7 @@ working with:
   <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/jenkins-%23DC3545.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/snyk-%234C4A73.svg?&style=for-the-badge&logo=snyk&logoColor=white"/>
   <img src="https://img.shields.io/badge/opentelemetry-%23000000.svg?&style=for-the-badge&logo=opentelemetry&logoColor=white"/>
   <img src="https://img.shields.io/badge/ollama-%23000000.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/mistral_ai-%23FE0008.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
