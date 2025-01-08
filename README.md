@@ -16,7 +16,7 @@ working with:
   
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/lombok-%23FF0000.svg?&style=for-the-badge&logo=openjdk&logoColor=black"/>
+  <img src="https://img.shields.io/badge/quarkus-%234695EB.svg?&style=for-the-badge&logo=quarkus&logoColor=black"/>
   <img src="https://img.shields.io/badge/llamaindex-%231E2129.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white"/>
   
@@ -39,9 +39,11 @@ working with:
   <img src="https://img.shields.io/badge/obsidian-%237C3AED.svg?&style=for-the-badge&logo=obsidian&logoColor=white"/>
   <img src="https://img.shields.io/badge/gradle-%2302303A.svg?&style=for-the-badge&logo=gradle&logoColor=white"/>
   <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jenkins-%23DC3545.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gitlab-%23FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/maven-%23C71A36.svg?&style=for-the-badge&logo=apachemaven&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/snyk-%234C4A73.svg?&style=for-the-badge&logo=snyk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/prometheus-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/opentelemetry-%23000000.svg?&style=for-the-badge&logo=opentelemetry&logoColor=white"/>
   <img src="https://img.shields.io/badge/ollama-%23000000.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/mistral_ai-%23FE0008.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
@@ -78,11 +80,9 @@ I also worked with:
   <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/oracle_db-%23F80000.svg?&style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/prometheus-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jenkins-%23DC3545.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/gnubash-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/visualstudiocode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/maven-%23C71A36.svg?&style=for-the-badge&logo=apachemaven&logoColor=white"/>
   <img src="https://img.shields.io/badge/hazelcast-%23C6FF3A.svg?&style=for-the-badge&logo=openjdk&logoColor=black"/>
   <img src="https://img.shields.io/badge/ant-%23A82C7C.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/subversion-%23819DCA.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
@@ -93,6 +93,7 @@ I also worked with:
   <img src="https://img.shields.io/badge/marklogic_db-%2382E93D.svg?&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/openshift-%23EE0000.svg?&style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
   <img src="https://img.shields.io/badge/archimate-%232167D1.svg?&style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/snyk-%234C4A73.svg?&style=for-the-badge&logo=snyk&logoColor=white"/>
 </p>
   
 find me on:  
