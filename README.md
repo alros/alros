@@ -13,14 +13,14 @@ working with:
 <p>
   <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/quarkus-%234695EB.svg?&style=for-the-badge&logo=quarkus&logoColor=black"/>
-  <img src="https://img.shields.io/badge/llamaindex-%231E2129.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/mariadb-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/kafka-%23231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/netlify-%23139CAB.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/aws-%23FF9900.svg?&style=for-the-badge&logo=amazon&logoColor=white"/>
@@ -32,7 +32,6 @@ working with:
   <img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/vim-%23019733.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
   <img src="https://img.shields.io/badge/sonarqube-%234E9BCD.svg?&style=for-the-badge&logo=sonarqube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/newrelic-%231CE783.svg?&style=for-the-badge&logo=newrelic&logoColor=white"/>
   <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/bitbucket-%230052CC.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
   <img src="https://img.shields.io/badge/confluence-%230052CC.svg?&style=for-the-badge&logo=confluence&logoColor=white"/>
@@ -43,12 +42,11 @@ working with:
   <img src="https://img.shields.io/badge/maven-%23C71A36.svg?&style=for-the-badge&logo=apachemaven&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kibana-%23005571.svg?&style=for-the-badge&logo=kibana&logoColor=white"/>
   <img src="https://img.shields.io/badge/prometheus-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/opentelemetry-%23000000.svg?&style=for-the-badge&logo=opentelemetry&logoColor=white"/>
   <img src="https://img.shields.io/badge/ollama-%23000000.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/mistral_ai-%23FE0008.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/llama-%230668E1.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/chroma_db-%23020817.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
 </p>
 
 I also worked with:
@@ -71,7 +69,13 @@ I also worked with:
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/camel-%23E97826.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/wicket-%23FF9925.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
-    
+  <img src="https://img.shields.io/badge/llamaindex-%231E2129.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/chroma_db-%23020817.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/opentelemetry-%23000000.svg?&style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/newrelic-%231CE783.svg?&style=for-the-badge&logo=newrelic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/tomcat-%23F8DC75.svg?&style=for-the-badge&logo=apachetomcat&logoColor=black"/>
   <img src="https://img.shields.io/badge/weblogic-%23F80000.svg?&style=for-the-badge&logo=openjdk&logoColor=black"/>
   <img src="https://img.shields.io/badge/jboss-%23F80000.svg?&style=for-the-badge&logo=openjdk&logoColor=black"/>
