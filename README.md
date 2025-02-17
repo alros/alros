@@ -108,4 +108,7 @@ find me on:
   <a href="https://blog.rossotto.net">
     <img src="https://img.shields.io/badge/blog%20-%23DC3545.svg?&style=for-the-badge&logo=blogger&logoColor=white"/>
   </a>
+  <a href="https://gitlab.com/alberto.rossotto">
+    <img src="https://img.shields.io/badge/gitlab%20-%23FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+  </a>
 </p>
