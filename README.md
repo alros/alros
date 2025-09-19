@@ -12,13 +12,10 @@
 working with:
 <p>
   <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/quarkus-%234695EB.svg?&style=for-the-badge&logo=quarkus&logoColor=black"/>
-  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/mariadb-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/kafka-%23231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white"/>
@@ -29,7 +26,6 @@ working with:
   <img src="https://img.shields.io/badge/k9s-%23000000.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/intellijidea-%23000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/vim-%23019733.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
   <img src="https://img.shields.io/badge/sonarqube-%234E9BCD.svg?&style=for-the-badge&logo=sonarqube&logoColor=white"/>
   <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
@@ -47,6 +43,7 @@ working with:
   <img src="https://img.shields.io/badge/ollama-%23000000.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/mistral_ai-%23FE0008.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/llama-%230668E1.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-%23EA4B71.svg?&style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
 I also worked with:
@@ -57,6 +54,8 @@ I also worked with:
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/>
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/struts-%2317233b.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
@@ -71,6 +70,7 @@ I also worked with:
   <img src="https://img.shields.io/badge/wicket-%23FF9925.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/llamaindex-%231E2129.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/chroma_db-%23020817.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/opentelemetry-%23000000.svg?&style=for-the-badge&logo=opentelemetry&logoColor=white"/>
@@ -98,6 +98,7 @@ I also worked with:
   <img src="https://img.shields.io/badge/openshift-%23EE0000.svg?&style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
   <img src="https://img.shields.io/badge/archimate-%232167D1.svg?&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/snyk-%234C4A73.svg?&style=for-the-badge&logo=snyk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white"/>
 </p>
   
 find me on:  
