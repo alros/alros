@@ -12,6 +12,7 @@
 working with:
 <p>
   <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Csharp-%23dddddd.svg?&style=for-the-badge&logo=C&logoColor=black"/>
   
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -44,6 +45,7 @@ working with:
   <img src="https://img.shields.io/badge/mistral_ai-%23FE0008.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/llama-%230668E1.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-%23EA4B71.svg?&style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/unity-%23FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=black"/>
 </p>
 
 I also worked with:
