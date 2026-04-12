@@ -19,12 +19,11 @@ working with:
   <img src="https://img.shields.io/badge/quarkus-%234695EB.svg?&style=for-the-badge&logo=quarkus&logoColor=black"/>
 
   <img src="https://img.shields.io/badge/mariadb-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/redis-%23FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/kafka-%23231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/netlify-%23139CAB.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/aws-%23FF9900.svg?&style=for-the-badge&logo=amazon&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%23007bff.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/kubernetes-%23007bff.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/k9s-%23000000.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/intellijidea-%23000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/vim-%23019733.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
@@ -41,10 +40,6 @@ working with:
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/kibana-%23005571.svg?&style=for-the-badge&logo=kibana&logoColor=white"/>
   <img src="https://img.shields.io/badge/prometheus-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ollama-%23000000.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mistral_ai-%23FE0008.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/llama-%230668E1.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-%23EA4B71.svg?&style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/unity-%23FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=black"/>
 </p>
 
@@ -74,6 +69,12 @@ I also worked with:
   <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
 
+  <img src="https://img.shields.io/badge/aws-%23FF9900.svg?&style=for-the-badge&logo=amazon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/k9s-%23000000.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ollama-%23000000.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mistral_ai-%23FE0008.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/llama-%230668E1.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-%23EA4B71.svg?&style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/chroma_db-%23020817.svg?&style=for-the-badge&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/opentelemetry-%23000000.svg?&style=for-the-badge&logo=opentelemetry&logoColor=white"/>
   <img src="https://img.shields.io/badge/newrelic-%231CE783.svg?&style=for-the-badge&logo=newrelic&logoColor=white"/>
