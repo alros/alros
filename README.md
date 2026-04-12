@@ -27,7 +27,8 @@ working with:
   <img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/intellijidea-%23000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/vim-%23019733.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sonarqube-%234E9BCD.svg?&style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/visualstudiocode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sonarqube-%23126ED3.svg?&style=for-the-badge&logo=sonarqubeserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/bitbucket-%230052CC.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
   <img src="https://img.shields.io/badge/confluence-%230052CC.svg?&style=for-the-badge&logo=confluence&logoColor=white"/>
@@ -89,7 +90,6 @@ I also worked with:
   <img src="https://img.shields.io/badge/oracle_db-%23F80000.svg?&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/jenkins-%23DC3545.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/gnubash-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/visualstudiocode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/hazelcast-%23C6FF3A.svg?&style=for-the-badge&logo=openjdk&logoColor=black"/>
   <img src="https://img.shields.io/badge/ant-%23A82C7C.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/subversion-%23819DCA.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
