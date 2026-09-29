@@ -1,6 +1,6 @@
 <h1>Hi 👋 I'm Alberto</h1>
 
-<p>Living in Italy, often in Greece, sometimes in the UK or The Netherlands.</p>
+<p>Living in Greece, often in Italy, sometimes in the UK or The Netherlands.</p>
 
 <p>Software Engineer and Tech Lead with more than 20 years of hands-on experience in software development. My main focus is backend development in Java, solution design, engineering team leadership, and coordination with the business.<p>
 
