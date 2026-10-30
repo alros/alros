@@ -106,6 +106,9 @@ I also worked with:
   
 find me on:  
 <p>
+  <a href="https://www.rossotto.eu/">
+    <img src="https://img.shields.io/badge/my_homepage%20-%234695EB.svg?&style=for-the-badge&logo=blogger&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/albertorossotto/">
     <img src="https://img.shields.io/badge/linkedin%20-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
