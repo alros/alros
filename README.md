@@ -16,7 +16,10 @@ working with:
   
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/quarkus-%234695EB.svg?&style=for-the-badge&logo=quarkus&logoColor=black"/>
+  <img src="https://img.shields.io/badge/quarkus-%234695EB.svg?&style=for-the-badge&logo=quarkus&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/claude-%23D97757.svg?&style=for-the-badge&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github_copilot-%23000000.svg?&style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/mariadb-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/redis-%23FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
