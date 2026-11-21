@@ -122,3 +122,13 @@ find me on:
     <img src="https://img.shields.io/badge/gitlab%20-%23FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
   </a>
 </p>
+
+# Some of my small projects on GitHub
+
+- [awesome-remote-jobs](https://github.com/alros/awesome-remote-jobs): list of job boards focused on software engineering and remote jobs.
+- [blender-retopology](https://github.com/alros/blender-retopology): utility for Blender 5.3 that automatically retopologizes a mesh into quads.
+- [cv-lint](https://github.com/alros/cv-lint): a command-line tool that reads a CV PDF the way CV-screening systems (ATS parsers) do and reports any text a parser will misread.
+- [google-authenticator-commandline](https://github.com/alros/google-authenticator-commandline): extract the secret from Google Authenticator and use it to generate OTP with node.
+- [jira-mcp-server](https://github.com/alros/jira-mcp-server): a small MCP server that queries Jira over stdio. It's built with Java 25 and Quarkus and compiled to a native macOS binary that starts in about 30 ms. It works with Claude (Code / Desktop) and GitHub Copilot.
+- [obsidian-mcp](https://github.com/alros/obsidian-mcp): a small, fast MCP server that gives Claude, GitHub Copilot and any other MCP client read-only access to your Obsidian vaults, with per-vault tag rules that decide what's visible.
+- [strudel2wav](https://github.com/alros/strudel2wav): render a Strudel script to a WAV file from the command line.
